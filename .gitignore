@@ -17,9 +17,9 @@ db.sqlite3-journal
 !**/migrations
 !**/migrations/__init__.py
 **/posts_pics/**
-!**/posts_pics
+!**/posts_pics/123.jpg
 **/profile_pics/**
-!**/profile_pics
+!**/profile_pics/1.jpg
 .idea/
 fix
 
